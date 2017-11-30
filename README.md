@@ -1,3 +1,22 @@
+# UPDATE (RAPORT 2)
+What has been done so far?
+- created basic models
+- adjusted physics accordingly, to fit the game concept
+- created 2 test levels
+- added some puzzle elements like the ability to move boxes, moving platforms, switches
+- added death mechanics (only falling down so far)
+- created very simple raw textures for the game world
+
+What needs to be done?
+- create more engaging, thought out levels (more traps, puzzles, scripted events, *maybe* enemies)
+- improve some classes / scripts - add extra functionalities where needed
+- add some abilities like double jump, dash and more
+- improve transitioning between levels
+
+2nd priority:
+- add any optional features after the core of the game is done
+
+
 # pico-a0
 
 # What is pico-a0?
