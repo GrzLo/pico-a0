@@ -1,3 +1,15 @@
+# UPDATE (RAPORT 3)
+- added new levels
+- updated textures
+- better lightning
+- fixed several minor bugs (events executing only once, bugged platforms etc.)
+- added few game mechanics
+
+to do:
+- end game level
+- main menu
+- add sound effects / music
+
 # UPDATE (RAPORT 2)
 What has been done so far?
 - created basic models
