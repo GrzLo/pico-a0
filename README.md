@@ -1,3 +1,6 @@
+# Screenshot
+![Alt text](picoa0.png?raw=true)
+
 # UPDATE (RAPORT 3)
 - added new levels
 - updated textures
